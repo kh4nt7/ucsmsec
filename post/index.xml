@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ucsmsec</title>
-    <link>https://github.com/kh4nt99/kh4nt99.github.io/blob/master/post/</link>
+    <link>https://ucsmsec.net/post/</link>
     <description>Recent content in Posts on ucsmsec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Sep 1986 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://github.com/kh4nt99/kh4nt99.github.io/blob/master/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ucsmsec.net/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Elliot Whispers</title>
-      <link>https://github.com/kh4nt99/kh4nt99.github.io/blob/master/post/hello/</link>
+      <link>https://ucsmsec.net/post/hello/</link>
       <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kh4nt99/kh4nt99.github.io/blob/master/post/hello/</guid>
+      <guid>https://ucsmsec.net/post/hello/</guid>
       <description>This is a test post .
 You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked! You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked! You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked! You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked!
 You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked! You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked! blablablablablablablablablablablablablablablablablablablablablablablablablablabla blablablablablablablablablablablablablablablablablablablablablablablablablablabla</description>
@@ -24,10 +24,10 @@ You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been 
     
     <item>
       <title>strings - Points: 100</title>
-      <link>https://github.com/kh4nt99/kh4nt99.github.io/blob/master/post/picowu_warmup/</link>
+      <link>https://ucsmsec.net/post/picowu_warmup/</link>
       <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kh4nt99/kh4nt99.github.io/blob/master/post/picowu_warmup/</guid>
+      <guid>https://ucsmsec.net/post/picowu_warmup/</guid>
       <description>We first download the file from file
 wget --no-check-certificate https://2018shell.picoctf.com/static/aead5528718d7c26733c42fadab63b6a/strings --2019-03-30 22:04:59-- https://2018shell.picoctf.com/static/aead5528718d7c26733c42fadab63b6a/strings  Check the file type
 khant@DESKTOP-DMG2EMG:~/ctfs/picoCTF/strings$ file strings strings: ELF 64-bit LSB executable, x86-64, version 1 (SYSV)  We can see this after running this
